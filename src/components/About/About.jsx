@@ -28,10 +28,10 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={getImageUrl("about/baIcon.png")} alt="BA icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
-              <p>{`I have desinged multiple landing pages and have created design systems as well`}</p>
+              <h3>Bussiness Analyst</h3>
+              <p>{`I played role such as the vital link between business needs and technical solutions, ensuring alignment for efficient and effective outcomes`}</p>
             </div>
           </li>
         </ul>
