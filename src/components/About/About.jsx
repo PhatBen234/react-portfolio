@@ -31,7 +31,7 @@ export const About = () => {
             <img src={getImageUrl("about/baIcon.png")} alt="BA icon" />
             <div className={styles.aboutItemText}>
               <h3>Bussiness Analyst</h3>
-              <p>{`I played role such as the vital link between business needs and technical solutions, ensuring alignment for efficient and effective outcomes`}</p>
+              <p>{`I bridge business needs with technical solutions for optimal outcomes`}</p>
             </div>
           </li>
         </ul>
